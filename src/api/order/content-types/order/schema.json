@@ -35,6 +35,9 @@
     },
     "enterprise": {
       "type": "string"
+    },
+    "creationDate": {
+      "type": "date"
     }
   }
 }
